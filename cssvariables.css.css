@@ -1,0 +1,25 @@
+/* ============================================================
+   CSS VARIABLES (no black anywhere)
+   ============================================================ */
+:root {
+    --primary: #6C63FF;
+    --primary-dark: #5A52D5;
+    --primary-light: #8B83FF;
+    --secondary: #FF6584;
+    --secondary-light: #FF8AA6;
+
+    --bg: #F8F9FE;
+    --white: #FFFFFF;
+    --card-bg: #FFFFFF;
+    --text-main: #2D2D3F;
+    --text-muted: #6B6B8A;
+    --border-color: #E2E4F0;
+    --shadow: 0 8px 30px rgba(108, 99, 255, 0.12);
+
+    --font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    --font-size-base: 1rem;
+    --line-height: 1.6;
+    --transition: 0.3s ease-in-out;
+    --radius: 12px;
+    --radius-sm: 6px;
+}
